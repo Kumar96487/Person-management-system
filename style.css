@@ -1,0 +1,101 @@
+*{
+	margin:0;
+}
+
+body {
+  background-image: url('https://cdn.pixabay.com/photo/2017/03/03/13/56/key-2114046_1280.jpg');
+  background-size: cover;
+}
+
+
+.an{
+	font-size:2vw;
+	background-color: blue;
+	color:white;
+	padding: .5vw 1.5vw;
+	text-decoration: none;
+	border-radius: .5vw;
+	margin-left:1vw;
+}
+.an:hover {
+	background-color: gray;
+	color:white;
+}
+.dv{
+	text-align: center;
+	
+	margin-top: 4.5vw;
+}
+.lah{
+	font-size: 2vw;
+	font-family: 'times New Roman ,Times,serif'; 
+}
+.tab{
+	border: .1vw solid teal;
+	margin: auto;
+	width: 70%;
+	
+}
+.ta{
+	margin: auto;
+	width: 80%;
+	margin-top: 1vw;
+	font-size: 1.8vw;
+	
+}
+span{
+	color: red;
+	font-size: 1.8vw;
+}
+.la{
+	font-size: 1.7vw;
+}
+.tai{
+	margin:auto;
+	margin-top:4vw;
+	font-size:1.8vw;
+	background-color:gray;
+	border:.1vw solid black;
+	border-radius: .5vw;
+	color: white;
+}
+.tdp{
+	padding: 1vw;
+}
+.tb{
+	font-size: 1.7vw;
+	width: 100%;
+}
+.btn{
+	font-size: 1.7vw;
+	color: white;
+	background-color: #0099ff;
+	padding: .2vw 1.5vw;
+	border: none;
+	cursor: pointer;
+	border-radius: .5vw;
+}
+.tar{
+	margin:auto;
+	margin-top:4vw;
+	font-size:1.8vw;
+	background-color:teal;
+	border-collapse:collapse;
+	border-radius: .5vw;
+	color: white;
+	border-color: white;
+	width: 55%;
+}
+.tr{
+	background-color: orange;
+	
+}
+.msg{
+	color:red;
+	font-size:1.7vw;
+	font-family:'Franklin Gothic Medium','Arial Narrow',Arial,sans-serif;
+}
+.dvv{
+	text-align: center;
+	margin-top: 1vw;
+}
